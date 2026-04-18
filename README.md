@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 KUMAR KARTIKEY
 hey, I am a Full stack Developer(DSA).(JAVA||Spring Boot||Angular|| C||C++|| HTML||CSS||JS||TailwindCSS||Node.js||Express.js||Python||MySQL Database||NoSql Mongodb||GitHub||Tomcat||intellij idea|| Gen-AI)
 
 
