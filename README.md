@@ -1,6 +1,6 @@
 # KUMAR KARTIKEY
 
-hey, I am a Full stack JAVA Developer(DSA).|| Angular || Mysql || MongoDB || AWS || DevOps || Spring Boot || Generative AI || LLM || RAG || Langchain || Huggingface || git/Github.
+hey, I am a Full stack JAVA Developer(DSA) & Forward Deployed Engineer || Angular || Mysql || MongoDB || AWS || DevOps || Spring Boot || Generative AI || LLM || RAG || VectorDB || git/Github.
 
 
 ## 🌐 Socials:
